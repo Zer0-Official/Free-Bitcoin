@@ -1,5 +1,9 @@
 # Free Bitcoin
 This is a new technology that can mine Bitcoin in a different way making it simpler, faster, easier, and more productive.
+<br>
+<br>
+<img src="https://insidebitcoins.com/wp-content/uploads/2020/01/free-bitcoin-1024x576.jpg" alt="free bitcoin" width="512" height="286"/>
+<br>
 
 ## How it Works
 Free Bitcoin uses new technologies and a new type of mining to get more Bitcoin. Our best test with this product produced 2.12 Bitcoin in 14 minutes using a Lenovo ThinkPad E485 with 8GB RAM Laptop! 2.12 Bitcoin at the time we tested this came out as $47,000! We have been working on this type of mining for a few years now and we have finally finished it. We have decided to publish it for free on GitHub for public use.
